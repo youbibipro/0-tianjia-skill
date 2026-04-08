@@ -15,7 +15,7 @@
 cp -r 0-tianjia-skill ~/.openclaw/workspace/skills/
 
 # 方法二：Git clone
-git clone https://github.com/YOUR_USERNAME/0-tianjia-skill.git ~/.openclaw/workspace/skills/0-tianjia-skill
+git clone https://github.com/youbibipro/0-tianjia-skill.git ~/.openclaw/workspace/skills/0-tianjia-skill
 ```
 
 ## 触发词
